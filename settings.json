@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " TheSummerSMP.aternos.me",
+    "ip": "TheSummerSMP.aternos.me",
     "port": 21723,
     "version": "1.21.1"
   },
